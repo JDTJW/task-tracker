@@ -42,7 +42,7 @@ Enter a number to choose an action, and follow the prompts.
 
 ## What I learned building this
 
-This was my first real project after being stuck watching Python tutorials without retaining much. Building it from scratch (rather than following a tutorial) forced me to actually understand and debug:
+Building it from scratch forced me to actually understand and debug:
 
 - Lists and dictionaries as combined data structures
 - Writing functions with parameters and return values, and using return values for success/failure feedback
